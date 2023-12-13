@@ -4,7 +4,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.riteship.crs.api.gateway.microservice.config.CloudConfig;
+import com.riteship.crs.student.microservice.config.CloudConfig;
 
 @RestController
 public class RiteShipMicroServiceController {
